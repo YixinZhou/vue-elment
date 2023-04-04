@@ -1,0 +1,1 @@
+declare module 'render-jupyter-notebook-vue'
